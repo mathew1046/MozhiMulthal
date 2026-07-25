@@ -10,7 +10,7 @@ Replaces biased parent self-reporting with objective, non-semantic acoustic anal
 
 ## Demo
 
-<video src="https://github.com/mathew1046/MozhiMuthal/releases/download/demo-assets/mozhimuthal-demo.mp4" controls></video>
+[Watch the demo](https://github.com/mathew1046/MozhiMuthal/releases/download/demo-assets/mozhimuthal-demo.mp4)
 
 ## Architecture
 
