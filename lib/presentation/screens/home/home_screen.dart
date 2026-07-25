@@ -35,7 +35,15 @@ class _HomeScreenState extends ConsumerState<HomeScreen> {
         toolbarHeight: 72,
         title: Row(
           children: [
-            const AppIconBadge(icon: Icons.graphic_eq_rounded, size: 40),
+            ClipRRect(
+              borderRadius: BorderRadius.circular(12),
+              child: Image.asset(
+                'assets/data/logo.jpeg',
+                width: 40,
+                height: 40,
+                fit: BoxFit.cover,
+              ),
+            ),
             const SizedBox(width: 10),
             Text('MozhiMuthal', style: Theme.of(context).textTheme.titleLarge),
           ],
