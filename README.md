@@ -10,13 +10,7 @@ Replaces biased parent self-reporting with objective, non-semantic acoustic anal
 
 ## Demo
 
-[![MozhiMuthal demo — watch the video](artifacts/demo/demo-poster.jpg)](artifacts/demo/mozhimuthal-demo.webm)
-
-**39-second product walkthrough** — WebM (VP9 + Opus), 720p, ~2.3 MB. Click the image to play.
-
-Covers the full story: biased paper-based parent interviews at the Anganwadi (the problem) → pictogram-card elicitation with the Dhwani speaker → the app's Malayalam audio consent flow → on-device acoustic screening → *"Catching delays early. In every language."*
-
-> The video is committed to the repo so it stays versioned with the code; GitHub shows it on the file page when you click through. WebM plays natively in all modern browsers (Chrome, Firefox, Edge, Safari 16.4+).
+<video src="https://raw.githubusercontent.com/mathew1046/MozhiMuthal/main/artifacts/demo/mozhimuthal-demo.webm" controls></video>
 
 ## Architecture
 
