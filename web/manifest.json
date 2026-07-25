@@ -1,11 +1,11 @@
 {
-    "name": "mozhimuthal",
-    "short_name": "mozhimuthal",
+    "name": "MozhiMuthal",
+    "short_name": "MozhiMuthal",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "background_color": "#FFFCF8",
+    "theme_color": "#8367C7",
+    "description": "MozhiMuthal developmental screening app.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
